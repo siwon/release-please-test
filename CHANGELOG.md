@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/siwon/release-please-test/compare/v1.0.0...v1.1.0) (2023-05-10)
+
+
+### Miscellaneous Chores
+
+* release 1.1.0 ([b63d21d](https://github.com/siwon/release-please-test/commit/b63d21df5af3e7c5e01a5621299a275b721da0e3))
+
 ## 1.0.0 (2023-05-10)
 
 
